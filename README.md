@@ -18,4 +18,4 @@
 - **[simple-ecg-simulator](https://github.com/NANTHIKARNNAAYUDHYA/simple-ecg-simulator)** : ระบบจำลองสัญญาณไฟฟ้าหัวใจ (ECG) เพื่อการศึกษาเชิงวิชาการ
 
 ---
-<p align="center"> <i>Dedicated to precision in medicine and code. Stay sharp.</i> </p>
+<p align="center"> <i>Dedicated to precision in medicine Stay sharp.</i> </p>
